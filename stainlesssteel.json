@@ -1,0 +1,233 @@
+{
+    "AISI_201": {
+        "default": {
+            "den": 0.289,
+            "yield_str": 40000,
+            "ult_str": 75000,
+            "elongation": 0.40,
+            "moe": 28000000,
+            "pr": 0.27
+        }
+    },
+
+    "AISI_202": {
+        "default": {
+            "den": 0.289,
+            "yield_str": 40000,
+            "ult_str": 75000,
+            "elongation": 0.40,
+            "moe": 28000000,
+            "pr": 0.27
+        }
+    },
+
+    "AISI_302": {
+        "default": {
+            "den": 0.289,
+            "yield_str": 30000,
+            "ult_str": 75000,
+            "elongation": 0.40,
+            "moe": 28000000,
+            "pr": 0.27
+        }
+    },
+
+    "AISI_304": {
+        "default": {
+            "den": 0.289,
+            "yield_str": 30000,
+            "ult_str": 75000,
+            "elongation": 0.40,
+            "moe": 28000000,
+            "pr": 0.29
+        }
+    },
+
+    "AISI_304L": {
+        "default": {
+            "den": 0.289,
+            "yield_str": 25000,
+            "ult_str": 70000,
+            "elongation": 0.40,
+            "moe": 28000000,
+            "pr": 0.28
+        }
+    },
+
+    "AISI_316": {
+        "default": {
+            "den": 0.289,
+            "yield_str": 30000,
+            "ult_str": 75000,
+            "elongation": 0.40,
+            "moe": 28000000,
+            "pr": 0.26
+        }
+    },
+
+    "AISI_316L": {
+        "default": {
+            "den": 0.289,
+            "yield_str": 25000,
+            "ult_str": 70000,
+            "elongation": 0.40,
+            "moe": 28000000,
+            "pr": 0.26
+        }
+    },
+
+    "AISI_405": {
+        "default": {
+            "den": 0.289,
+            "yield_str": 25000,
+            "ult_str": 60000,
+            "elongation": 0.20,
+            "moe": 29000000,
+            "pr": 0.28
+        }
+    },
+
+    "AISI_410": {
+        "annealed": {
+            "den": 0.282,
+            "yield_str": 40000,
+            "ult_str": 70000,
+            "elongation": 0.16,
+            "moe": 29000000,
+            "pr": 0.28
+        },
+
+        "tempered": {
+            "den": 0.282,
+            "yield_str": 80000,
+            "ult_str": 100000,
+            "elongation": 0.12,
+            "moe": 29000000,
+            "pr": 0.28
+        }
+    },
+
+    "AISI_430": {
+        "default": {
+            "den": 0.282,
+            "yield_str": 30000,
+            "ult_str": 60000,
+            "elongation": 0.20,
+            "moe": 29000000,
+            "pr": 0.28
+        }
+    },
+
+    "AISI_446": {
+        "default": {
+            "den": 0.282,
+            "yield_str": 40000,
+            "ult_str": 65000,
+            "elongation": 0.16,
+            "moe": 29000000,
+            "pr": 0.28
+        }
+    },
+
+    "15-5PH": {
+        "H900": {
+            "den": 0.283,
+            "yield_str": 170000,
+            "ult_str": 190000,
+            "elongation": 0.10,
+            "moe": 28500000,
+            "pr": 0.27
+        },
+
+        "H1025": {
+            "den": 0.283,
+            "yield_str": 145000,
+            "ult_str": 155000,
+            "elongation": 0.12,
+            "moe": 28500000,
+            "pr": 0.27
+        },
+
+        "H1150": {
+            "den": 0.283,
+            "yield_str": 105000,
+            "ult_str": 135000,
+            "elongation": 0.16,
+            "moe": 28500000,
+            "pr": 0.27
+        }
+    },
+
+    "17-4PH": {
+        "H900": {
+            "den": 0.282,
+            "yield_str": 170000,
+            "ult_str": 190000,
+            "elongation": 0.10,
+            "moe": 28500000,
+            "pr": 0.27
+        },
+
+        "H1025": {
+            "den": 0.282,
+            "yield_str": 145000,
+            "ult_str": 155000,
+            "elongation": 0.12,
+            "moe": 28500000,
+            "pr": 0.27
+        },
+
+        "H1150": {
+            "den": 0.282,
+            "yield_str": 105000,
+            "ult_str": 135000,
+            "elongation": 0.16,
+            "moe": 28500000,
+            "pr": 0.27
+        }
+    },
+
+    "17-7PH": {
+        "TH1050": {
+            "den": 0.276,
+            "yield_str": 150000,
+            "ult_str": 177000,
+            "elongation": 0.06,
+            "moe": 29000000,
+            "pr": 0.28
+        }
+    },
+
+    "A-286": {
+        "default": {
+            "den": 0.287,
+            "yield_str": 95000,
+            "ult_str": 140000,
+            "elongation": 0.15,
+            "moe": 29100000,
+            "pr": 0.31
+        }
+    },
+
+    "alloy_2205": {
+        "default": {
+            "den": 0.287,
+            "yield_str": 65000,
+            "ult_str": 95000,
+            "elongation": 0.25,
+            "moe": 28500000,
+            "pr": 0.27
+        }
+    },
+
+    "ferrallium_225": {
+        "default": {
+            "den": 0.287,
+            "yield_str": 80000,
+            "ult_str": 110000,
+            "elongation": 0.15,
+            "moe": 28500000,
+            "pr": 0.27
+        }
+    }
+}
