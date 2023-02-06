@@ -8,7 +8,7 @@ Here you can find properties for common materials used in mechanical design. Thi
 
 ## Units Directory
 When using our material library, reference the units directory below to know what units you are currently using.
-*(All units are currently in English units, we will create an SI version in the future :gear:)*
+*(All units are currently in English units, we will create an SI version in the future :gear:, or feel free to open a pr in the meantime :wink:)*
 
 | Property              | JSON Key      | Units        |
 | --------------------- | ------------- | ------------ |
