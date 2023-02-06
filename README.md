@@ -21,14 +21,10 @@ When using our material library, reference the units directory below to know wha
 
 ### Code Example
 Below is a Python example of how to use the library.
-```
-import json
 
-with open('material-properties/carbonsteel.json') as aluminum_properties:
-    aluminum = json.load(aluminum_properties)
-
-AISI_1020_den = aluminum['AISI_1020']['hot']['den']
-```
+<p align="center">
+  <img src="/images/python_example.png" alt="Python Example">
+</p>
 
 ### Want to add more?
 This library is open to all! If you want to add your own materials to the library, feel free to open a pull request and we will review
