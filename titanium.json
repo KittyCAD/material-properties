@@ -1,0 +1,56 @@
+{
+    "Pure": {
+        "Grade_2": {
+            "den": 0.163,
+            "yield_str": 40000,
+            "ult_str": 50000,
+            "elongation": 0.20,
+            "moe": 14800000,
+            "pr": 0.34
+        }
+    },
+
+    "Ti-5Al-2_5Sn": {
+        "Annealed": {
+            "den": 0.162,
+            "yield_str": 110000,
+            "ult_str": 115000,
+            "elongation": 0.10,
+            "moe": 15500000,
+            "pr": 0.31
+        }
+    },
+
+    "Ti-6Al-4V": {
+        "Grade_5": {
+            "den": 0.160,
+            "yield_str": 120000,
+            "ult_str": 130000,
+            "elongation": 0.10,
+            "moe": 16000000,
+            "pr": 0.31
+        }
+    },
+
+    "Ti-6Al-4V_ELI": {
+        "Grade_23": {
+            "den": 0.160,
+            "yield_str": 110000,
+            "ult_str": 120000,
+            "elongation": 0.10,
+            "moe": 16500000,
+            "pr": 0.31
+        }
+    },
+
+    "Ti-5-1-1-1": {
+        "Grade_32": {
+            "den": 0.160,
+            "yield_str": 85000,
+            "ult_str": 100000,
+            "elongation": 0.10,
+            "moe": 16000000,
+            "pr": 0.31
+        }
+    }
+}
