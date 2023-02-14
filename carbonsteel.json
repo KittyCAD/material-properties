@@ -1,6 +1,6 @@
 {
     "AISI_1020": {
-        "hot": {
+        "Hot": {
             "den": 0.283,
             "yield_str": 32000,
             "ult_str": 50000,
@@ -9,7 +9,7 @@
             "pr": 0.32
         },
 
-        "cold": {
+        "Cold": {
             "den": 0.283,
             "yield_str": 60000,
             "ult_str": 70000,
@@ -18,7 +18,7 @@
             "pr": 0.32
         },
 
-        "stress_rel": {
+        "Stress_rel": {
             "den": 0.283,
             "yield_str": 50000,
             "ult_str": 65000,
@@ -27,7 +27,7 @@
             "pr": 0.32
         },
 
-        "annealed": {
+        "Annealed": {
             "den": 0.283,
             "yield_str": 28000,
             "ult_str": 48000,
@@ -36,7 +36,7 @@
             "pr": 0.32
         },
 
-        "norm": {
+        "Norm": {
             "den": 0.283,
             "yield_str": 34000,
             "ult_str": 55000,
@@ -47,7 +47,7 @@
     },
 
     "ANSI_1045": {
-        "hot": {
+        "Hot": {
             "den": 0.283,
             "yield_str": 45000,
             "ult_str": 75000,
@@ -56,7 +56,7 @@
             "pr": 0.32
         },
 
-        "cold": {
+        "Cold": {
             "den": 0.283,
             "yield_str": 80000,
             "ult_str": 90000,
@@ -65,7 +65,7 @@
             "pr": 0.33
         },
 
-        "stress_rel": {
+        "Stress_rel": {
             "den": 0.283,
             "yield_str": 70000,
             "ult_str": 80000,
@@ -74,7 +74,7 @@
             "pr": 0.33
         },
 
-        "annealed": {
+        "Annealed": {
             "den": 0.283,
             "yield_str": 35000,
             "ult_str": 65000,
@@ -83,7 +83,7 @@
             "pr": 0.33
         },
 
-        "norm": {
+        "Norm": {
             "den": 0.283,
             "yield_str": 48000,
             "ult_str": 75000,
@@ -94,7 +94,7 @@
     },
 
     "ASTM_A36": { 
-        "default": {
+        "Default": {
             "den": 0.283,
             "yield_str": 36000,
             "ult_str": 58000,
@@ -105,7 +105,7 @@
     },
 
     "ASTM_A516": {
-        "default": {
+        "Default": {
             "den": 0.283,
             "yield_str": 38000,
             "ult_str": 70000,

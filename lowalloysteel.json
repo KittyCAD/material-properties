@@ -1,0 +1,270 @@
+{
+    "AISI_4130": {
+        "Hot": {
+            "den": 0.283,
+            "yield_str": 70000,
+            "ult_str": 90000,
+            "elongation": 0.20,
+            "moe": 29000000,
+            "pr": 0.32
+        },
+
+        "Stress_rel": {
+            "den": 0.283,
+            "yield_str": 85000,
+            "ult_str": 105000,
+            "elongation": 0.10,
+            "moe": 29000000,
+            "pr": 0.32
+        },
+
+        "Annealed": {
+            "den": 0.283,
+            "yield_str": 55000,
+            "ult_str": 75000,
+            "elongation": 0.30,
+            "moe": 29000000,
+            "pr": 0.32
+        },
+
+        "Norm": {
+            "den": 0.283,
+            "yield_str": 60000,
+            "ult_str": 90000,
+            "elongation": 0.20,
+            "moe": 29000000,
+            "pr": 0.32
+        }
+    },
+
+    "AISI_4140": {
+        "Hot": {
+            "den": 0.283,
+            "yield_str": 90000,
+            "ult_str": 120000,
+            "elongation": 0.15,
+            "moe": 29700000,
+            "pr": 0.32
+        },
+
+        "Stress_rel": {
+            "den": 0.283,
+            "yield_str": 100000,
+            "ult_str": 120000,
+            "elongation": 0.10,
+            "moe": 29700000,
+            "pr": 0.32
+        },
+
+        "Annealed": {
+            "den": 0.283,
+            "yield_str": 60000,
+            "ult_str": 80000,
+            "elongation": 0.25,
+            "moe": 29700000,
+            "pr": 0.32
+        },
+
+        "Norm": {
+            "den": 0.283,
+            "yield_str": 90000,
+            "ult_str": 120000,
+            "elongation": 0.20,
+            "moe": 29700000,
+            "pr": 0.32
+        }
+    },
+
+    "ASTM_A242": {
+        "Default": {
+            "den": 0.282,
+            "yield_str": 46000,
+            "ult_str": 67000,
+            "elongation": 0.18,
+            "moe": 30000000,
+            "pr": 0.30
+        }
+    },
+
+    "ASTM_A302": {
+        "Grade_A": {
+            "den": 0.282,
+            "yield_str": 45000,
+            "ult_str": 75000,
+            "elongation": 0.15,
+            "moe": 29000000,
+            "pr": 0.29
+        },
+
+        "Grade_B": {
+            "den": 0.282,
+            "yield_str": 50000,
+            "ult_str": 80000,
+            "elongation": 0.17,
+            "moe": 29600000,
+            "pr": 0.29
+        }
+    },
+
+    "ASTM_A514": {
+        "Tempered": {
+            "den": 0.283,
+            "yield_str": 100000,
+            "ult_str": 110000,
+            "elongation": 0.18,
+            "moe": 29600000,
+            "pr": 0.30
+        }
+    },
+
+    "ASTM_A517": {
+        "Grade_F": {
+            "den": 0.280,
+            "yield_str": 100000,
+            "ult_str": 115000,
+            "elongation": 0.16,
+            "moe": 29600000,
+            "pr": 0.29
+        }
+    },
+
+    "ASTM_A533": {
+        "Class_1": {
+            "den": 0.282,
+            "yield_str": 50000,
+            "ult_str": 80000,
+            "elongation": 0.18,
+            "moe": 29600000,
+            "pr": 0.29
+        },
+
+        "Class_2": {
+            "den": 0.282,
+            "yield_str": 70000,
+            "ult_str": 90000,
+            "elongation": 0.16,
+            "moe": 29600000,
+            "pr": 0.29
+        },
+
+        "Class_3": {
+            "den": 0.282,
+            "yield_str": 83000,
+            "ult_str": 10000,
+            "elongation": 0.16,
+            "moe": 29600000,
+            "pr": 0.29
+        }
+    },
+
+    "ASTM_A572": {
+        "Grade_50": {
+            "den": 0.283,
+            "yield_str": 50000,
+            "ult_str": 65000,
+            "elongation": 0.18,
+            "moe": 30000000,
+            "pr": 0.30
+        }
+    },
+
+    "ASTM_A588": {
+        "default": {
+            "den": 0.280,
+            "yield_str": 50000,
+            "ult_str": 70000,
+            "elongation": 0.18,
+            "moe": 29700000,
+            "pr": 0.28
+        }
+    },
+
+    "ASTM_A633": {
+        "Grade_E": {
+            "den": 0.280,
+            "yield_str": 55000,
+            "ult_str": 75000,
+            "elongation": 0.18,
+            "moe": 29700000,
+            "pr": 0.28
+        }
+    },
+
+    "ASTM_A656": {
+        "Grade_50": {
+            "den": 0.282,
+            "yield_str": 50000,
+            "ult_str": 60000,
+            "elongation": 0.20,
+            "moe": 29000000,
+            "pr": 0.29
+        },
+
+        "Grade_60": {
+            "den": 0.282,
+            "yield_str": 60000,
+            "ult_str": 70000,
+            "elongation": 0.17,
+            "moe": 29000000,
+            "pr": 0.29
+        },
+
+        "Grade_70": {
+            "den": 0.282,
+            "yield_str": 70000,
+            "ult_str": 80000,
+            "elongation": 0.14,
+            "moe": 29000000,
+            "pr": 0.29
+        },
+
+        "Grade_80": {
+            "den": 0.282,
+            "yield_str": 80000,
+            "ult_str": 90000,
+            "elongation": 0.12,
+            "moe": 29000000,
+            "pr": 0.29
+        },
+
+        "Grade_100": {
+            "den": 0.282,
+            "yield_str": 100000,
+            "ult_str": 110000,
+            "elongation": 0.12,
+            "moe": 29000000,
+            "pr": 0.29
+        }
+    },
+
+    "ASTM_A710": {
+        "Grade_A": {
+            "den": 0.280,
+            "yield_str": 80000,
+            "ult_str": 85000,
+            "elongation": 0.20,
+            "moe": 29700000,
+            "pr": 0.30
+        }
+    },
+
+    "HY-80": {
+        "Default": {
+            "den": 0.280,
+            "yield_str": 80000,
+            "elongation": 0.18,
+            "moe": 2970000,
+            "pr": 0.29
+        }
+    },
+
+    "HY-100": {
+        "Default": {
+            "den": 0.284,
+            "yield_str": 100000,
+            "elongation": 0.15,
+            "moe": 29700000,
+            "pr": 0.29
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "70_30_Copper-Nickel": {
+        "Annealed": {
+            "den": 0.323,
+            "yield_str": 18000,
+            "ult_str": 45000,
+            "elongation": 0.30,
+            "moe": 21800000,
+            "pr": 0.30
+        },
+
+        "Cold_worked": {
+            "den": 0.323,
+            "yield_str": 50000,
+            "ult_str": 65000,
+            "elongation": 0.10,
+            "moe": 21800000,
+            "pr": 0.30
+        }
+    },
+
+    "90_10_Copper-Nickel": {
+        "Annealed": {
+            "den": 0.323,
+            "yield_str": 15000,
+            "ult_str": 380000,
+            "elongation": 0.30,
+            "moe": 20300000,
+            "pr": 0.30
+        },
+
+        "Cold_worked": {
+            "den": 0.323,
+            "yield_str": 30000,
+            "ult_str": 50000,
+            "elongation": 0.15,
+            "moe": 20300000,
+            "pr": 0.30
+        }
+    },
+
+    "Aluminum_Bronze": {
+        "Default": {
+            "den": 0.269,
+            "yield_str": 32000,
+            "ult_str": 85000,
+            "elongation": 0.12,
+            "moe": 15500000,
+            "pr": 0.316
+        }
+    },
+
+    "Beryllium_Copper": {
+        "Heat_treated": {
+            "den": 0.298,
+            "yield_str": 75000,
+            "ult_str": 85000,
+            "elongation": 0.08,
+            "moe": 18500000,
+            "pr": 0.27
+        },
+
+        "Precipiation_heat_treated": {
+            "den": 0.298,
+            "yield_str": 140000,
+            "ult_str": 165000,
+            "elongation": 0.03,
+            "moe": 18500000,
+            "pr": 0.27
+        }
+    },
+
+    "Nickel_Aluminum_Bronze_632": {
+        "Annealed": {
+            "den": 0.274,
+            "yield_str": 34000,
+            "ult_str": 90000,
+            "elongation": 0.10,
+            "moe": 16700000,
+            "pr": 0.32
+        },
+
+        "Quenched_Hardened": {
+            "den": 0.274,
+            "yield_str": 50000,
+            "ult_str": 90000,
+            "elongation": 0.15,
+            "moe": 16700000,
+            "pr": 0.32
+        }
+    }
+}

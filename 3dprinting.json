@@ -1,0 +1,93 @@
+{
+    "ABS": {
+        "Default": {
+            "ult_str": 5801,
+            "max_service_temp": 208,
+            "coef_thermal_exp": 50,
+            "min_extrude_temp": 428,
+            "max_extrude_temp": 482,
+            "min_bed_temp": 203,
+            "max_bed_temp": 230,
+            "den": 0.038
+        }
+    },
+
+    "PLA": {
+        "Default": {
+            "ult_str": 9427,
+            "max_service_temp": 126,
+            "coef_thermal_exp": 37.8,
+            "min_extrude_temp": 356,
+            "max_extrude_temp": 446,
+            "min_bed_temp": 68,
+            "max_bed_temp": 158,
+            "den": 0.045,
+            "elongation": 0.06
+        }
+    },
+
+    "HIPS": {
+        "Default": {
+            "ult_str": 4641,
+            "max_service_temp": 212,
+            "coef_thermal_exp": 33,
+            "min_extrude_temp": 446,
+            "max_extrude_temp": 473,
+            "min_bed_temp": 212,
+            "max_bed_temp": 239,
+            "den": 0.038
+        }
+    },
+
+    "Nylon": {
+        "Default": {
+            "ult_str": 9065,
+            "max_service_temp": 203,
+            "coef_thermal_exp": 53,
+            "min_extrude_temp": 428,
+            "max_extrude_temp": 518,
+            "min_bed_temp": 158,
+            "max_bed_temp": 194,
+            "den": 0.040
+        }
+    },
+
+    "PETG": {
+        "Default": {
+            "ult_str": 7687,
+            "max_service_temp": 163,
+            "coef_thermal_exp": 33,
+            "min_extrude_temp": 446,
+            "max_extrude_temp": 482,
+            "min_bed_temp": 167,
+            "max_bed_temp": 194,
+            "den": 0.044
+        }
+    },
+
+    "ASA": {
+        "Default": {
+            "ult_str": 7977,
+            "max_service_temp": 203,
+            "coef_thermal_exp": 54,
+            "min_extrude_temp": 455,
+            "max_extrude_temp": 491,
+            "min_bed_temp": 194,
+            "max_bed_temp": 230,
+            "den": 0.039
+        }
+    },
+
+    "Polycarbonate": {
+        "Default": {
+            "ult_str": 10442,
+            "max_service_temp": 250,
+            "coef_thermal_exp": 38,
+            "min_extrude_temp": 500,
+            "max_extrude_temp": 590,
+            "min_bed_temp": 176,
+            "max_bed_temp": 248,
+            "den": 0.043
+        }
+    }
+}

@@ -1,6 +1,6 @@
 {
     "AISI_201": {
-        "default": {
+        "Default": {
             "den": 0.289,
             "yield_str": 40000,
             "ult_str": 75000,
@@ -11,7 +11,7 @@
     },
 
     "AISI_202": {
-        "default": {
+        "Default": {
             "den": 0.289,
             "yield_str": 40000,
             "ult_str": 75000,
@@ -22,7 +22,7 @@
     },
 
     "AISI_302": {
-        "default": {
+        "Default": {
             "den": 0.289,
             "yield_str": 30000,
             "ult_str": 75000,
@@ -33,7 +33,7 @@
     },
 
     "AISI_304": {
-        "default": {
+        "Default": {
             "den": 0.289,
             "yield_str": 30000,
             "ult_str": 75000,
@@ -44,7 +44,7 @@
     },
 
     "AISI_304L": {
-        "default": {
+        "Default": {
             "den": 0.289,
             "yield_str": 25000,
             "ult_str": 70000,
@@ -55,7 +55,7 @@
     },
 
     "AISI_316": {
-        "default": {
+        "Default": {
             "den": 0.289,
             "yield_str": 30000,
             "ult_str": 75000,
@@ -66,7 +66,7 @@
     },
 
     "AISI_316L": {
-        "default": {
+        "Default": {
             "den": 0.289,
             "yield_str": 25000,
             "ult_str": 70000,
@@ -77,7 +77,7 @@
     },
 
     "AISI_405": {
-        "default": {
+        "Default": {
             "den": 0.289,
             "yield_str": 25000,
             "ult_str": 60000,
@@ -88,7 +88,7 @@
     },
 
     "AISI_410": {
-        "annealed": {
+        "Annealed": {
             "den": 0.282,
             "yield_str": 40000,
             "ult_str": 70000,
@@ -97,7 +97,7 @@
             "pr": 0.28
         },
 
-        "tempered": {
+        "Tempered": {
             "den": 0.282,
             "yield_str": 80000,
             "ult_str": 100000,
@@ -108,7 +108,7 @@
     },
 
     "AISI_430": {
-        "default": {
+        "Default": {
             "den": 0.282,
             "yield_str": 30000,
             "ult_str": 60000,
@@ -119,7 +119,7 @@
     },
 
     "AISI_446": {
-        "default": {
+        "Default": {
             "den": 0.282,
             "yield_str": 40000,
             "ult_str": 65000,
@@ -199,7 +199,7 @@
     },
 
     "A-286": {
-        "default": {
+        "Default": {
             "den": 0.287,
             "yield_str": 95000,
             "ult_str": 140000,
@@ -209,8 +209,8 @@
         }
     },
 
-    "alloy_2205": {
-        "default": {
+    "Alloy_2205": {
+        "Default": {
             "den": 0.287,
             "yield_str": 65000,
             "ult_str": 95000,
@@ -220,8 +220,8 @@
         }
     },
 
-    "ferrallium_225": {
-        "default": {
+    "Ferrallium_225": {
+        "Default": {
             "den": 0.287,
             "yield_str": 80000,
             "ult_str": 110000,
