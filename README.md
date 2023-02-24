@@ -1,4 +1,6 @@
-# Material Properties Database
+<div style="width: 100%;">
+  <img src="header.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
 Here you can find properties for common materials used in mechanical design. This page is a work in progress :hammer:
 
@@ -6,7 +8,7 @@ Here you can find properties for common materials used in mechanical design. Thi
   <img src="https://media.giphy.com/media/4EFt4pA9U27Gau23IZ/giphy.gif" alt="machine gif" />
 </p>
 
-## Units Directory
+## 🛠️ Units Directory 🛠️
 When using our material library, reference the units directory below to know what units you are currently using.
 *(All units are currently in English units, we will create an SI version in the future :gear:, or feel free to open a pr in the meantime :wink:)*
 
@@ -78,7 +80,7 @@ When using our material library, reference the units directory below to know wha
   </tr>
 </table>
 
-### Code Example
+### 🛠️ Code Example 🛠️
 Below is a Python example of how to use the library.
 
 ```
@@ -90,5 +92,5 @@ with open('material-properties/carbonsteel.json') as aluminum_properties:
 AISI_1020_den = aluminum['AISI_1020']['hot']['den']
 ```
 
-### Want to add more?
+### 🛠️ Want to add more? 🛠️
 This library is open to all. If you would like to make a change, open up a PR and we will review. If you are updating or adding a value, please include a reference.
