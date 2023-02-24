@@ -2,7 +2,7 @@
   <img src="header.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-Here you can find properties for common materials used in mechanical design. This page is a work in progress :hammer:
+<p align="center">Here you can find properties for common materials used in mechanical design. This page is a work in progress :hammer:</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/4EFt4pA9U27Gau23IZ/giphy.gif" alt="machine gif" />
