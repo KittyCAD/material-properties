@@ -10,7 +10,7 @@
 
 ## 🛠️ Units Directory 🛠️
 When using our material library, reference the units directory below to know what units you are currently using.
-*(All units are currently in English units, we will create an SI version in the future :gear:, or feel free to open a pr in the meantime :wink:)*
+*(All units are currently in English units, we will create an SI version in the future :gear:, use our [units conversion api](https://kittycad.io/docs/api/unit) or feel free to open a pr in the meantime :wink:)*
 
 <table align="center" style="text-align: center">
   <tr>
