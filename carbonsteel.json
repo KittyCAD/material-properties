@@ -1,117 +1,658 @@
 {
     "AISI_1020": {
         "Hot": {
-            "den": 0.283,
-            "yield_str": 32000,
-            "ult_str": 50000,
-            "elongation": 0.25,
-            "moe": 29000000,
-            "pr": 0.32
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.283
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 32000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 50000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.25
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 29000000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.32
+            }
         },
-
         "Cold": {
-            "den": 0.283,
-            "yield_str": 60000,
-            "ult_str": 70000,
-            "elongation": 0.05,
-            "moe": 29000000,
-            "pr": 0.32
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.283
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 60000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 70000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.05
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 29000000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.32
+            }
         },
-
         "Stress_rel": {
-            "den": 0.283,
-            "yield_str": 50000,
-            "ult_str": 65000,
-            "elongation": 0.10,
-            "moe": 29000000,
-            "pr": 0.32
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.283
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 50000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 65000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.1
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 29000000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.32
+            }
         },
-
         "Annealed": {
-            "den": 0.283,
-            "yield_str": 28000,
-            "ult_str": 48000,
-            "elongation": 0.30,
-            "moe": 29000000,
-            "pr": 0.32
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.283
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 28000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 48000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.3
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 29000000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.32
+            }
         },
-
         "Norm": {
-            "den": 0.283,
-            "yield_str": 34000,
-            "ult_str": 55000,
-            "elongation": 0.22,
-            "moe": 29000000,
-            "pr": 0.33
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.283
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 34000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 55000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.22
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 29000000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.33
+            }
         }
     },
-
     "ANSI_1045": {
         "Hot": {
-            "den": 0.283,
-            "yield_str": 45000,
-            "ult_str": 75000,
-            "elongation": 0.15,
-            "moe": 29000000,
-            "pr": 0.32
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.283
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 45000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 75000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.15
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 29000000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.32
+            }
         },
-
         "Cold": {
-            "den": 0.283,
-            "yield_str": 80000,
-            "ult_str": 90000,
-            "elongation": 0.05,
-            "moe": 29000000,
-            "pr": 0.33
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.283
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 80000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 90000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.05
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 29000000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.33
+            }
         },
-
         "Stress_rel": {
-            "den": 0.283,
-            "yield_str": 70000,
-            "ult_str": 80000,
-            "elongation": 0.08,
-            "moe": 29000000,
-            "pr": 0.33
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.283
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 70000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 80000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.08
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 29000000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.33
+            }
         },
-
         "Annealed": {
-            "den": 0.283,
-            "yield_str": 35000,
-            "ult_str": 65000,
-            "elongation": 0.20,
-            "moe": 29000000,
-            "pr": 0.33
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.283
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 35000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 65000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.2
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 29000000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.33
+            }
         },
-
         "Norm": {
-            "den": 0.283,
-            "yield_str": 48000,
-            "ult_str": 75000,
-            "elongation": 0.15,
-            "moe": 29000000,
-            "pr": 0.33
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.283
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 48000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 75000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.15
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 29000000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.33
+            }
         }
     },
-
-    "ASTM_A36": { 
+    "ASTM_A36": {
         "Default": {
-            "den": 0.283,
-            "yield_str": 36000,
-            "ult_str": 58000,
-            "elongation": 0.21,
-            "moe": 29000000,
-            "pr": 0.30
-        }        
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.283
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 36000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 58000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.21
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 29000000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.3
+            }
+        }
     },
-
     "ASTM_A516": {
         "Default": {
-            "den": 0.283,
-            "yield_str": 38000,
-            "ult_str": 70000,
-            "elongation": 0.17,
-            "moe": 29000000,
-            "pr": 0.30
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.283
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 38000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 70000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.17
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 29000000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.3
+            }
         }
     }
 }

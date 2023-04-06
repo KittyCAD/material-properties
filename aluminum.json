@@ -1,112 +1,608 @@
 {
     "2014": {
         "T6": {
-            "den": 0.101,
-            "yield_str": 59000,
-            "ult_str": 67000,
-            "elongation": 0.07,
-            "moe": 10500000,
-            "pr": 0.33
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.101
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 59000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 67000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.07
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 10500000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.33
+            }
         },
-
         "T651": {
-            "den": 0.101,
-            "yield_str": 59000,
-            "ult_str": 67000,
-            "elongation": 0.07,
-            "moe": 10500000,
-            "pr": 0.33 
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.101
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 59000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 67000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.07
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 10500000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.33
+            }
         }
     },
-
     "2024": {
         "T4": {
-            "den": 0.1,
-            "yield_str": 40000,
-            "ult_str": 62000,
-            "elongation": 0.10,
-            "moe": 10500000,
-            "pr": 0.33
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.1
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 40000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 62000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.1
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 10500000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.33
+            }
         }
     },
-
     "5052": {
         "H32": {
-            "den": 0.097,
-            "yield_str": 23000,
-            "ult_str": 38000,
-            "elongation": 0.09,
-            "moe": 10100000,
-            "pr": 0.33
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.097
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 23000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 38000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.09
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 10100000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.33
+            }
         }
     },
-
     "5083": {
         "H116": {
-            "den": 0.096,
-            "yield_str": 31000,
-            "ult_str": 44000,
-            "elongation": 0.10,
-            "moe": 10300000,
-            "pr": 0.33
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.096
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 31000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 44000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.1
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 10300000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.33
+            }
         },
-
         "H321": {
-            "den": 0.096,
-            "yield_str": 31000,
-            "ult_str": 44000,
-            "elongation": 0.10,
-            "moe": 10300000,
-            "pr": 0.33
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.096
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 31000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 44000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.1
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 10300000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.33
+            }
         },
-
         "H32": {
-            "den": 0.096,
-            "yield_str": 31000,
-            "ult_str": 56000,
-            "elongation": 0.12,
-            "moe": 10300000,
-            "pr": 0.33
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.096
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 31000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 56000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.12
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 10300000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.33
+            }
         }
     },
-
     "6061": {
         "T4": {
-            "den": 0.098,
-            "yield_str": 16000,
-            "ult_str": 26000,
-            "elongation": 0.16,
-            "moe": 9900000,
-            "pr": 0.33
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.098
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 16000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 26000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.16
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 9900000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.33
+            }
         },
-
         "T6": {
-            "den": 0.098,
-            "yield_str": 35000,
-            "ult_str": 38000,
-            "elongation": 0.08,
-            "moe": 10300000,
-            "pr": 0.33
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.098
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 35000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 38000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.08
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 10300000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.33
+            }
         }
     },
-
     "7075": {
         "T6": {
-            "den": 0.101,
-            "yield_str": 68000,
-            "ult_str": 78000,
-            "elongation": 0.06,
-            "moe": 10300000,
-            "pr": 0.33
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.101
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 68000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 78000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.06
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 10300000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.33
+            }
         },
-
         "T651": {
-            "den": 0.101,
-            "yield_str": 68000,
-            "ult_str": 78000,
-            "elongation": 0.06,
-            "moe": 10300000,
-            "pr": 0.33
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.101
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 68000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 78000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.06
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 10300000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.33
+            }
         }
-    } 
+    }
 }

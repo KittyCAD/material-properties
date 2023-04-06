@@ -1,85 +1,471 @@
 {
     "ASTM_A159": {
         "G1800": {
-            "den": 0.264,
-            "ult_str": 18000,
-            "moe": 11800000,
-            "pr": 0.26
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.264
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 18000
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 11800000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.26
+            }
         },
-
         "G2500": {
-            "den": 0.264,
-            "ult_str": 25000,
-            "moe": 11800000,
-            "pr": 0.26            
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.264
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 25000
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 11800000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.26
+            }
         },
-
         "G3000": {
-            "den": 0.264,
-            "ult_str": 30000,
-            "moe": 11800000,
-            "pr": 0.26
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.264
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 30000
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 11800000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.26
+            }
         },
-
         "G3500": {
-            "den": 0.264,
-            "ult_str": 35000,
-            "moe": 11800000,
-            "pr": 0.26
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.264
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 35000
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 11800000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.26
+            }
         },
-
         "G4000": {
-            "den": 0.264,
-            "ult_str": 40000,
-            "moe": 11800000,
-            "pr": 0.26
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.264
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 40000
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 11800000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.26
+            }
         }
     },
-
     "ASTM_A536": {
         "Grade_60-40-18": {
-            "den": 0.256,
-            "yield_str": 45000,
-            "ult_str": 60000,
-            "elongation": 0.18,
-            "moe": 2450000,
-            "pr": 0.29
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.256
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 45000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 60000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.18
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 2450000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.29
+            }
         },
-
         "Grade_65-45-12": {
-            "den": 0.256,
-            "yield_str": 45000,
-            "ult_str": 65000,
-            "elongation": 0.12,
-            "moe": 2450000,
-            "pr": 0.30
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.256
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 45000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 65000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.12
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 2450000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.3
+            }
         },
-
         "Grade_80-55-06": {
-            "den": 0.256,
-            "yield_str": 55000,
-            "ult_str": 80000,
-            "elongation": 0.06,
-            "moe": 2450000,
-            "pr": 0.31
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.256
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 55000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 80000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.06
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 2450000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.31
+            }
         },
-
         "Grade_100-70-03": {
-            "den": 0.256,
-            "yield_str": 70000,
-            "ult_str": 100000,
-            "elongation": 0.03,
-            "moe": 2450000,
-            "pr": 0.30
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.256
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 70000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 100000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.03
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 2450000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.3
+            }
         },
-
         "Grade_120-90-02": {
-            "den": 0.256,
-            "yield_str": 90000,
-            "ult_str": 120000,
-            "elongation": 0.02,
-            "moe": 2450000,
-            "pr": 0.28
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.256
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 90000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 120000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.02
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 2450000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.28
+            }
         }
     }
 }

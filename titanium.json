@@ -1,56 +1,282 @@
 {
     "Pure": {
         "Grade_2": {
-            "den": 0.163,
-            "yield_str": 40000,
-            "ult_str": 50000,
-            "elongation": 0.20,
-            "moe": 14800000,
-            "pr": 0.34
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.163
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 40000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 50000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.2
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 14800000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.34
+            }
         }
     },
-
     "Ti-5Al-2_5Sn": {
         "Annealed": {
-            "den": 0.162,
-            "yield_str": 110000,
-            "ult_str": 115000,
-            "elongation": 0.10,
-            "moe": 15500000,
-            "pr": 0.31
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.162
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 110000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 115000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.1
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 15500000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.31
+            }
         }
     },
-
     "Ti-6Al-4V": {
         "Grade_5": {
-            "den": 0.160,
-            "yield_str": 120000,
-            "ult_str": 130000,
-            "elongation": 0.10,
-            "moe": 16000000,
-            "pr": 0.31
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.16
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 120000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 130000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.1
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 16000000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.31
+            }
         }
     },
-
     "Ti-6Al-4V_ELI": {
         "Grade_23": {
-            "den": 0.160,
-            "yield_str": 110000,
-            "ult_str": 120000,
-            "elongation": 0.10,
-            "moe": 16500000,
-            "pr": 0.31
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.16
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 110000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 120000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.1
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 16500000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.31
+            }
         }
     },
-
     "Ti-5-1-1-1": {
         "Grade_32": {
-            "den": 0.160,
-            "yield_str": 85000,
-            "ult_str": 100000,
-            "elongation": 0.10,
-            "moe": 16000000,
-            "pr": 0.31
+            "den": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_cubed"
+                    ]
+                },
+                "val": 0.16
+            },
+            "yield_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 85000
+            },
+            "ult_str": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 100000
+            },
+            "elongation": {
+                "unit": null,
+                "val": 0.1
+            },
+            "moe": {
+                "unit": {
+                    "numerator": [
+                        "pound"
+                    ],
+                    "denominator": [
+                        "inches_squared"
+                    ]
+                },
+                "val": 16000000
+            },
+            "pr": {
+                "unit": null,
+                "val": 0.31
+            }
         }
     }
 }
