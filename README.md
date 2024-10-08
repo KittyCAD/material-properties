@@ -1,16 +1,12 @@
 <div>
-  <img src="/images/header.svg" style="width: 100%;" alt="Click to see the source">
+  <img src="/images/header.svg" style="width: 100%" alt="Click to see the source">
 </div>
 
-<p align="center">Here you can find properties for common materials used in mechanical design. This page is a work in progress :hammer:</p>
+<p align="center">Here you can find properties for common materials used in mechanical design. This page is a work in progress </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/4EFt4pA9U27Gau23IZ/giphy.gif" alt="machine gif" />
-</p>
-
-## 🛠️ Units Directory 🛠️
+## Units Directory
 When using our material library, reference the units directory below to know what units you are currently using.
-*(All units are currently in English units, we will create an SI version in the future :gear:, use our [units conversion api](https://kittycad.io/docs/api/unit) or feel free to open a pr in the meantime :wink:)*
+**(All units are currently in English units, we will create an SI version in the future. In the meantime, you can use our [units conversion api](https://zoo.dev/docs/api/unit).**
 
 <table align="center" style="text-align: center">
   <tr>
@@ -80,10 +76,10 @@ When using our material library, reference the units directory below to know wha
   </tr>
 </table>
 
-### 🛠️ Code Example 🛠️
+### Code Example
 Below is a Python example of how to use the library.
 
-```
+```js
 import json
 
 with open('material-properties/carbonsteel.json') as aluminum_properties:
@@ -92,14 +88,13 @@ with open('material-properties/carbonsteel.json') as aluminum_properties:
 AISI_1020_den = aluminum['AISI_1020']['hot']['den']
 ```
 
-### 👷 Honorary Engineers (Contributors) 👷
-
-A huge thank you to all our contributing engineers! <br><br> 
+### Contributors
+ 
 <a href="https://github.com/kittyCAD/material-properties/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=kittyCAD/material-properties" />
 </a>
 
-### 👷 How to Contribute 👷
+### How to Contribute
 
 If you would like to make a change, open up a PR and we will review promptly. If you would like to add or edit a value within the database, please provide a reference with your requested change. 
 
